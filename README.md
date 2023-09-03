@@ -4,8 +4,8 @@
 
 Para este programa estaremos utilizando el IDE llamado netbeans y crearemos un nuevo proyecto java llamado **PiedraPapelYTijeras**.
 
-![Desktop View](https://axeldiegosoto.github.io/assets/img/posts/2023-08-27-piedra-papel-tijeras-java/screenshot_006.png){: width="972" height="589"}
-![Desktop View](https://axeldiegosoto.github.io/assets/img/posts/2023-08-27-piedra-papel-tijeras-java/screenshot_007.png){: width="972" height="589"}
+![Desktop View](https://axeldiegosoto.github.io/assets/img/posts/2023-08-27-piedra-papel-tijeras-java/screenshot_006.png)
+![Desktop View](https://axeldiegosoto.github.io/assets/img/posts/2023-08-27-piedra-papel-tijeras-java/screenshot_007.png)
 
 Una vez teniendo un proyecto nuevo y limpio podemos empezar con lo básico, que sería definir nuestras variables del programa.
 
